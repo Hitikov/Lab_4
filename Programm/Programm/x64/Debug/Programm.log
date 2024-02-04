@@ -1,4 +1,3 @@
 ﻿  Programm.cpp
 C:\Cstm\PSTU_works\Inf\Labs\Lab_4\Programm\Programm\Programm.cpp(41,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Cstm\PSTU_works\Inf\Labs\Lab_4\Programm\Programm\Programm.cpp(8,16): warning C4101: k_true: неиспользованная локальная переменная
   Programm.vcxproj -> C:\Cstm\PSTU_works\Inf\Labs\Lab_4\Programm\x64\Debug\Programm.exe

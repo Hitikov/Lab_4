@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 	setlocale(LC_ALL, "Russian");
-	int it, n, k, k_true, mode, mem;
+	int it, n, k,mode, mem;
 	int mtr[100];
 
 	// Указание длины массива в диапазоне от 1 до 50
@@ -116,4 +116,5 @@ int main() {
 		}
 	} while (it != (k - 1));
 	cout << endl << endl;
+	return 0;
 }
